@@ -1,11 +1,13 @@
 *
-{
+{   
     margin:0;
     padding:0;
 }
 aside h3
 {
-    
+   color: #ff11aa; 
+   font-weight: bold;
+   text-align: center;
 }
 
 body
@@ -53,6 +55,7 @@ article
 }
 aside
 {
+    color:blue;
     float:right;
     background-color:#c0f1a8;
     width:29%;
@@ -64,14 +67,14 @@ aside p
 footer
 {
     clear:both;
-    background: #5a041a;
+    background: #167;
     font-size:12px;
     padding: 5px 0px 5px 0px;
     text-align:right;
 }
 footer p
 {
-    color: white;
+    color: #ffaa11;
     font-style:italic;
     padding: 0px 0px 0px 10px;
 }
@@ -83,9 +86,10 @@ article section
 }
 h1
 {
-    color:white;
+    color:fuchsia;
+    text-align:center;
 }
 em
 {
-    color: yellow;
+    color: lime;
 }
